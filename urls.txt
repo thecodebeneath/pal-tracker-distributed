@@ -1,0 +1,6 @@
+https://registration-pal-siva.apps.pikes.pal.pivotal.io/users/4
+https://registration-pal-siva.apps.pikes.pal.pivotal.io/accounts?ownerId=4
+https://registration-pal-siva.apps.pikes.pal.pivotal.io/projects?accountId=4
+https://allocations-pal-siva.apps.pikes.pal.pivotal.io/allocations?projectId=4
+https://backlog-pal-siva.apps.pikes.pal.pivotal.io/stories?projectId=4
+https://timesheets-pal-siva.apps.pikes.pal.pivotal.io/time-entries?userId=4
