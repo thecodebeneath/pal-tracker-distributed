@@ -1,4 +1,4 @@
-applications:permitAll
+applications:
 - name: tracker-registration
   path: ./applications/registration-server/build/libs/registration-server.jar
   routes:
